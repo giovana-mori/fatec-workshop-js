@@ -1,4 +1,7 @@
 # Fatec Jahu Workshop JS
+----------------------------
+# Nome: Giovana Mori
+# 3º Semestre de DSM
 
 Corrija o código a abaixo.
 
